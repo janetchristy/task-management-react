@@ -1,20 +1,28 @@
-<<<<<<< HEAD
-# React + Vite
+# Task Manager React App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple **Task Management** application built with **React** and **Vite**.  
+It demonstrates **React Router, Forms, Table management, CRUD operations, and local storage**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## **Features**
 
-## React Compiler
+- **Home Page**: View all tasks in a table with search functionality.  
+- **Create Task**: Add new tasks with title, description, and status.  
+- **Edit Task**: Update existing tasks.  
+- **Delete Task**: Remove tasks from the list.  
+- **Local Storage**: Tasks are saved in the browser so data persists.  
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## **Getting Started**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# task-management-react
->>>>>>> 0b28a251cccd56ef0f2363e34db8a62af6460ccb
+### **Prerequisites**
+
+- Node.js installed on your system
+- Git (optional, for cloning the repo)
+
+### **Install Dependencies**
+
+```bash
+npm install
